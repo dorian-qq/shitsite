@@ -1,0 +1,103 @@
+body
+{
+	
+	background-color: #161616;
+	-webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */     
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+.btn:hover {background: #eee;}
+h1 {
+  color: #8458B3;
+  display: flex;
+  justify-content: center;
+  font-family: 'Lexend Peta', sans-serif;
+}
+h2 {
+	display: inline-block;
+	margin-left: 1px;
+	font-size: 10px;
+  color: #FFB6C1;
+  display: flex;
+  justify-content: center;
+  font-family: 'Lexend Peta', sans-serif;
+}
+h3 {
+	
+	display: inline-block;
+	margin-left: 1px;
+	font-size: 10px;
+  color: #845B3;
+  display: center;
+  justify-content: center;
+  font-family: 'Lexend Peta', sans-serif;
+}
+.zdj
+{
+	 display: flex;
+  justify-content: center;
+  margin-top: -3px
+}
+.cookies
+{
+	background-color: #161616;
+	-webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */     
+	margin-top: 690px;
+	color: #84B3;
+}
+.wroc
+{
+	background-color: #161616;
+	-webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */     
+	margin-bottom: 1px;
+	display: inline-block;
+	margin-left: 1px;
+	font-size: 10px;
+  color: #FFB6C1;
+  display: flex;
+  justify-content: center;
+  font-family: 'Lexend Peta', sans-serif;
+}
+.supreme
+{
+	color: red;
+	margin-top: 350px;
+  justify-content: center;
+  font-family: 'Lexend Peta', sans-serif;
+  }
+  .esa
+  {
+	   
+	  display: flex;
+  justify-content: center;
+  font-family: 'Lexend Peta', sans-serif;
+  }
